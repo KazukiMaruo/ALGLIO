@@ -1,0 +1,73 @@
+Mean_ALFF,NETWORK_Names,SUB_Names,Lateralization,Location
+0.696867,LH_Control A,sub-01,left,Ipsilesional
+0.750529,LH_Control B,sub-01,left,Ipsilesional
+0.8003799,LH_Salience/VenAttn A,sub-01,left,Ipsilesional
+0.8044422,LH_Salience/VenAttn B,sub-01,left,Ipsilesional
+0.9184702,LH_Dorsal Attention A,sub-01,left,Ipsilesional
+0.9093424,LH_Dorsal Attention B,sub-01,left,Ipsilesional
+0.9266225,RH_Control A,sub-01,left,Contralesional
+0.9338304,RH_Control B,sub-01,left,Contralesional
+0.9381126,RH_Salience/VenAttn A,sub-01,left,Contralesional
+0.9381655,RH_Salience/VenAttn B,sub-01,left,Contralesional
+0.9713485,RH_Dorsal Attention A,sub-01,left,Contralesional
+0.9744806,RH_Dorsal Attention B,sub-01,left,Contralesional
+0.8264635,LH_Control A,sub-03,left,Ipsilesional
+0.7442796,LH_Control B,sub-03,left,Ipsilesional
+0.7273206,LH_Salience/VenAttn A,sub-03,left,Ipsilesional
+0.7244298,LH_Salience/VenAttn B,sub-03,left,Ipsilesional
+0.7498481,LH_Dorsal Attention A,sub-03,left,Ipsilesional
+0.7305118,LH_Dorsal Attention B,sub-03,left,Ipsilesional
+0.7167749,RH_Control A,sub-03,left,Contralesional
+0.7049025,RH_Control B,sub-03,left,Contralesional
+0.7055417,RH_Salience/VenAttn A,sub-03,left,Contralesional
+0.70178,RH_Salience/VenAttn B,sub-03,left,Contralesional
+0.7146847,RH_Dorsal Attention A,sub-03,left,Contralesional
+0.7070848,RH_Dorsal Attention B,sub-03,left,Contralesional
+0.8672678,LH_Control A,sub-07,left,Ipsilesional
+0.9214866,LH_Control B,sub-07,left,Ipsilesional
+0.8918633,LH_Salience/VenAttn A,sub-07,left,Ipsilesional
+0.8993341,LH_Salience/VenAttn B,sub-07,left,Ipsilesional
+0.8840857,LH_Dorsal Attention A,sub-07,left,Ipsilesional
+0.8690614,LH_Dorsal Attention B,sub-07,left,Ipsilesional
+0.8658388,RH_Control A,sub-07,left,Contralesional
+0.8620437,RH_Control B,sub-07,left,Contralesional
+0.8782859,RH_Salience/VenAttn A,sub-07,left,Contralesional
+0.8611383,RH_Salience/VenAttn B,sub-07,left,Contralesional
+0.8744325,RH_Dorsal Attention A,sub-07,left,Contralesional
+0.873989,RH_Dorsal Attention B,sub-07,left,Contralesional
+1.096865,LH_Control A,sub-02,right,Contralesional
+1.04543,LH_Control B,sub-02,right,Contralesional
+1.028992,LH_Salience/VenAttn A,sub-02,right,Contralesional
+0.992146,LH_Salience/VenAttn B,sub-02,right,Contralesional
+0.9994224,LH_Dorsal Attention A,sub-02,right,Contralesional
+0.9768077,LH_Dorsal Attention B,sub-02,right,Contralesional
+1.001944,RH_Control A,sub-02,right,Ipsilesional
+1.014652,RH_Control B,sub-02,right,Ipsilesional
+1.025553,RH_Salience/VenAttn A,sub-02,right,Ipsilesional
+1.02689,RH_Salience/VenAttn B,sub-02,right,Ipsilesional
+1.020893,RH_Dorsal Attention A,sub-02,right,Ipsilesional
+1.004857,RH_Dorsal Attention B,sub-02,right,Ipsilesional
+1.125248,LH_Control A,sub-05,right,Contralesional
+1.175851,LH_Control B,sub-05,right,Contralesional
+1.158976,LH_Salience/VenAttn A,sub-05,right,Contralesional
+1.178198,LH_Salience/VenAttn B,sub-05,right,Contralesional
+1.10751,LH_Dorsal Attention A,sub-05,right,Contralesional
+1.089172,LH_Dorsal Attention B,sub-05,right,Contralesional
+1.105283,RH_Control A,sub-05,right,Ipsilesional
+1.122601,RH_Control B,sub-05,right,Ipsilesional
+1.099706,RH_Salience/VenAttn A,sub-05,right,Ipsilesional
+1.108305,RH_Salience/VenAttn B,sub-05,right,Ipsilesional
+1.084959,RH_Dorsal Attention A,sub-05,right,Ipsilesional
+1.063312,RH_Dorsal Attention B,sub-05,right,Ipsilesional
+0.9841183,LH_Control A,sub-06,right,Contralesional
+0.971041,LH_Control B,sub-06,right,Contralesional
+1.005829,LH_Salience/VenAttn A,sub-06,right,Contralesional
+0.9788892,LH_Salience/VenAttn B,sub-06,right,Contralesional
+0.9306227,LH_Dorsal Attention A,sub-06,right,Contralesional
+0.9106281,LH_Dorsal Attention B,sub-06,right,Contralesional
+0.905172,RH_Control A,sub-06,right,Ipsilesional
+0.8896109,RH_Control B,sub-06,right,Ipsilesional
+0.899709,RH_Salience/VenAttn A,sub-06,right,Ipsilesional
+0.9193107,RH_Salience/VenAttn B,sub-06,right,Ipsilesional
+0.9267731,RH_Dorsal Attention A,sub-06,right,Ipsilesional
+0.9158589,RH_Dorsal Attention B,sub-06,right,Ipsilesional

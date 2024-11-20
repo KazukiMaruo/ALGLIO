@@ -1,0 +1,73 @@
+Mean_dALFF,NETWORK_Names,SUB_Names,Lateralization,Location
+0.1743537,LH_Control A,sub-01,left,Ipsilesional
+0.1834699,LH_Control B,sub-01,left,Ipsilesional
+0.1933978,LH_Salience/VenAttn A,sub-01,left,Ipsilesional
+0.1906757,LH_Salience/VenAttn B,sub-01,left,Ipsilesional
+0.2178559,LH_Dorsal Attention A,sub-01,left,Ipsilesional
+0.2200576,LH_Dorsal Attention B,sub-01,left,Ipsilesional
+0.2232938,RH_Control A,sub-01,left,Contralesional
+0.22621,RH_Control B,sub-01,left,Contralesional
+0.2256887,RH_Salience/VenAttn A,sub-01,left,Contralesional
+0.225165,RH_Salience/VenAttn B,sub-01,left,Contralesional
+0.2393426,RH_Dorsal Attention A,sub-01,left,Contralesional
+0.2391808,RH_Dorsal Attention B,sub-01,left,Contralesional
+0.196631,LH_Control A,sub-03,left,Ipsilesional
+0.1930803,LH_Control B,sub-03,left,Ipsilesional
+0.1909351,LH_Salience/VenAttn A,sub-03,left,Ipsilesional
+0.1915239,LH_Salience/VenAttn B,sub-03,left,Ipsilesional
+0.2056813,LH_Dorsal Attention A,sub-03,left,Ipsilesional
+0.2029492,LH_Dorsal Attention B,sub-03,left,Ipsilesional
+0.1989957,RH_Control A,sub-03,left,Contralesional
+0.1962941,RH_Control B,sub-03,left,Contralesional
+0.1970907,RH_Salience/VenAttn A,sub-03,left,Contralesional
+0.1964883,RH_Salience/VenAttn B,sub-03,left,Contralesional
+0.2000518,RH_Dorsal Attention A,sub-03,left,Contralesional
+0.198594,RH_Dorsal Attention B,sub-03,left,Contralesional
+0.2176137,LH_Control A,sub-07,left,Ipsilesional
+0.2288376,LH_Control B,sub-07,left,Ipsilesional
+0.2206838,LH_Salience/VenAttn A,sub-07,left,Ipsilesional
+0.2214705,LH_Salience/VenAttn B,sub-07,left,Ipsilesional
+0.2122484,LH_Dorsal Attention A,sub-07,left,Ipsilesional
+0.2112416,LH_Dorsal Attention B,sub-07,left,Ipsilesional
+0.2102306,RH_Control A,sub-07,left,Contralesional
+0.2079162,RH_Control B,sub-07,left,Contralesional
+0.2102142,RH_Salience/VenAttn A,sub-07,left,Contralesional
+0.2061778,RH_Salience/VenAttn B,sub-07,left,Contralesional
+0.2099676,RH_Dorsal Attention A,sub-07,left,Contralesional
+0.2102588,RH_Dorsal Attention B,sub-07,left,Contralesional
+0.2838246,LH_Control A,sub-02,right,Contralesional
+0.2568281,LH_Control B,sub-02,right,Contralesional
+0.2478271,LH_Salience/VenAttn A,sub-02,right,Contralesional
+0.2311119,LH_Salience/VenAttn B,sub-02,right,Contralesional
+0.2242691,LH_Dorsal Attention A,sub-02,right,Contralesional
+0.2181286,LH_Dorsal Attention B,sub-02,right,Contralesional
+0.2328344,RH_Control A,sub-02,right,Ipsilesional
+0.2380211,RH_Control B,sub-02,right,Ipsilesional
+0.235429,RH_Salience/VenAttn A,sub-02,right,Ipsilesional
+0.2340006,RH_Salience/VenAttn B,sub-02,right,Ipsilesional
+0.2326817,RH_Dorsal Attention A,sub-02,right,Ipsilesional
+0.2282561,RH_Dorsal Attention B,sub-02,right,Ipsilesional
+0.2968596,LH_Control A,sub-05,right,Contralesional
+0.2987392,LH_Control B,sub-05,right,Contralesional
+0.2873048,LH_Salience/VenAttn A,sub-05,right,Contralesional
+0.283558,LH_Salience/VenAttn B,sub-05,right,Contralesional
+0.2692679,LH_Dorsal Attention A,sub-05,right,Contralesional
+0.2628534,LH_Dorsal Attention B,sub-05,right,Contralesional
+0.2662217,RH_Control A,sub-05,right,Ipsilesional
+0.2687355,RH_Control B,sub-05,right,Ipsilesional
+0.2644429,RH_Salience/VenAttn A,sub-05,right,Ipsilesional
+0.2647685,RH_Salience/VenAttn B,sub-05,right,Ipsilesional
+0.2572232,RH_Dorsal Attention A,sub-05,right,Ipsilesional
+0.2524025,RH_Dorsal Attention B,sub-05,right,Ipsilesional
+0.2343637,LH_Control A,sub-06,right,Contralesional
+0.2253823,LH_Control B,sub-06,right,Contralesional
+0.2341531,LH_Salience/VenAttn A,sub-06,right,Contralesional
+0.227768,LH_Salience/VenAttn B,sub-06,right,Contralesional
+0.2124916,LH_Dorsal Attention A,sub-06,right,Contralesional
+0.2082527,LH_Dorsal Attention B,sub-06,right,Contralesional
+0.2050162,RH_Control A,sub-06,right,Ipsilesional
+0.2026852,RH_Control B,sub-06,right,Ipsilesional
+0.2034224,RH_Salience/VenAttn A,sub-06,right,Ipsilesional
+0.206869,RH_Salience/VenAttn B,sub-06,right,Ipsilesional
+0.2078695,RH_Dorsal Attention A,sub-06,right,Ipsilesional
+0.2052612,RH_Dorsal Attention B,sub-06,right,Ipsilesional
